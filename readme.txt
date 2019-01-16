@@ -1,3 +1,3 @@
 git is a version control sysstem.
 git
-create a new branch is quick.
+create a new branch is quick & simple.
